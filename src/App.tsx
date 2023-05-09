@@ -13,7 +13,7 @@ function App() {
               </div>
               <div className="hidden md:block">
                 <div className="ml-10 flex items-baseline space-x-4">
-                  <a href="/" className="px-3 py-2 rounded-md text-sm font-medium text-white bg-gray-900">Dashboard</a>
+                  <a href="/" className="px-3 py-2 rounded-md font-medium text-white bg-gray-900">Dashboard</a>
                   <a href="/" className="px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700">Team</a>
                   <a href="/" className="px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700">Projects</a>
                   <a href="/" className="px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700">Calendar</a>
